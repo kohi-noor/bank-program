@@ -1,0 +1,23 @@
+3 					 Balance: 3.02 					 Balance: 1.023 					 Balance: 23.0
+3 					 Balance: 20.0
+45 					 Balance: 45.0
+deposit 					 Balance: 0.0
+34 					 Balance: 34.0
+withdraw 					 Balance: 34.0
+30 					 Balance: 4.0
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: deposit
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: 33
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: withdraw
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: 3
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: python bank.py
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: hahah
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: haha
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: deposit
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: 34
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: withdrawl;
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: withdraw
+<__main__.Bank object at 0x000001C276F8BCE0> 					 Balance: 60
+deposited 300.0 					 Balance: 300.0
+Withdrew 39.0 					 Balance: 261.0
+deposited 900.0 					 Balance: 900.0
+Withdrew 1000.0 					 Balance: -100.0
